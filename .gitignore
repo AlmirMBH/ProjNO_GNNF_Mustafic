@@ -1,0 +1,8 @@
+build/
+*.csv
+fit_log.txt
+run_export.txt
+fit_plot.xml
+convergence_plot.xml
+report_outline.txt
+.DS_Store
